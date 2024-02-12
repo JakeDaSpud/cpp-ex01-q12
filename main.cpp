@@ -3,6 +3,9 @@
 
 using namespace std;
 
+//Modify the above question to left-align or right-align the text in the box.
+//How could you centre align the text?
+
 int main() {
     vector<string> lines;
     string userInput;
